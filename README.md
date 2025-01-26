@@ -73,8 +73,8 @@ The frontend will run on `http://localhost:3000` and the backend on `http://loca
 
 The application comes with two predefined users for testing:
 - Admin User:
-  - Username: hemayal
-  - Password: hemayal123
+  - Username: admin
+  - Password: admin
 - Regular User:
   - Username: user@company.com
   - Password: user123
