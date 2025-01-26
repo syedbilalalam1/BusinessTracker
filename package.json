@@ -1,0 +1,24 @@
+{
+  "name": "inventory-management-system",
+  "version": "1.0.0",
+  "description": "Inventory Management System with React Frontend and Node Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "cd Frontend && npm install && npm run build && cd ../Backend && npm install",
+    "dev:frontend": "cd Frontend && npm start",
+    "dev:backend": "cd Backend && npm run dev",
+    "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
+    "install-all": "npm install && cd Frontend && npm install && cd ../Backend && npm install",
+    "render-build": "npm install && npm run build"
+  },
+  "dependencies": {
+    "concurrently": "^8.2.2",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
