@@ -1,10 +1,10 @@
 {
   "users": [
     {
-      "firstName": "Hemayal",
+      "firstName": "admin",
       "lastName": "Admin",
-      "email": "hemayal",
-      "password": "hemayal123",
+      "email": "admin",
+      "password": "admin",
       "phoneNumber": "1234567890",
       "imageUrl": "https://example.com/default-avatar.png",
       "isAdmin": true
