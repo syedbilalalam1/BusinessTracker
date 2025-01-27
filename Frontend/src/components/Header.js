@@ -37,7 +37,7 @@ export default function Header() {
                         <img
                           className="h-8 w-8"
                           src={require("../assets/logo.png")}
-                          alt="Hamza Electronics"
+                          alt="BusinessTracker"
                         />
                         <span className="font-bold text-white italic">
                           Hamza Electronics
