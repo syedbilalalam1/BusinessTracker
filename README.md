@@ -1,4 +1,4 @@
-# React Inventory Management System
+# BusinessTracker - Inventory Management System
 
 <div align="center">
   
