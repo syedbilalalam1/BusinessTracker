@@ -40,7 +40,7 @@ export default function Header() {
                           alt="BusinessTracker"
                         />
                         <span className="font-bold text-white italic">
-                          Hamza Electronics
+                          BusinessTracker
                         </span>
                       </div>
                     </div>
