@@ -11,6 +11,9 @@
 
 A full-stack inventory management system built with React, Node.js, Express, and MongoDB.
 
+
+![Image](https://github.com/user-attachments/assets/44f91904-c177-4ee1-aeca-0ef12de06e52)
+
 ## Features
 
 - User Authentication
